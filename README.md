@@ -28,6 +28,7 @@
 
 
 ```
+   TestNet: RINKEBY
    Deploying 'StableSwap'
    ----------------------
    > transaction hash:    0xe28ad4b1b61204d0551bb63edd91f668749660899cc4f675e80db3d18bb00fb9
